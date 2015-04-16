@@ -1,3 +1,6 @@
+/* Alexandre Gomes Andrade RA134762
+* Classe que cria uma janela com a impressao dos valores colocados no formulario criado por form. Os labels recebem o texto diretamente dos TextFields da classe form.
+*/
 package alunos;
 
 import java.awt.BorderLayout;

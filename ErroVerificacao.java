@@ -1,3 +1,6 @@
+/* Alexandre Gomes Andrade RA134762
+* Classe que cria uma janela de aviso que recebe o texto correspondente ao problema ocorrido no preenchimento do formulario
+*/
 package alunos;
 
 import java.awt.BorderLayout;
